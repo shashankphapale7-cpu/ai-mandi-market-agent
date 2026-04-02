@@ -35,6 +35,7 @@ pip install requests pandas
 🚦 How to Run the Agent
 Configure your API Key:
 Open mandi_agent.py and replace "YOUR_ACTUAL_API_KEY_HERE" with your unique key from the government portal.
+login to https://www.data.gov.in/ and search for API OF "Current Daily Price of Various Commodities from Various Markets (Mandi)"
 
 Execute the Script:
 
