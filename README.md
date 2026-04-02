@@ -24,10 +24,7 @@ Llama 3.1 Model: Downloaded via ollama run llama3.1.
 Data.gov.in API Key: Get your free key here.
 
 📥 Installation & Setup
-1. Clone the Repository
-Bash
-git clone https://github.com/shashankphapale7-cpu/mandi-master.git
-cd mandi-master
+1. Clone the Repository from github
 2. Set Up Virtual Environment (Recommended)
 Bash
 python3 -m venv mandivenv
